@@ -35,4 +35,4 @@ A partir destas definições apresentadas, pode-se então escrever os testes e o
 == Apresentações
 image::relatorio.jpeg[]
 
-Relatório final da cobertura de código
+Relatório final da cobertura de código.
